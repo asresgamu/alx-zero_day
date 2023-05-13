@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "The command I used is pull command to download chang made on github account"
-
+echo "git pull"
